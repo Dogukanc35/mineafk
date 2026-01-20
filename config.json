@@ -1,0 +1,23 @@
+{
+    "server": {
+        "host": "localhost",
+        "port": 25565,
+        "version": "1.21.1"
+    },
+    "player": {
+        "username": "AFKPlayer"
+    },
+    "antiAfk": {
+        "enabled": true,
+        "intervalMs": 30000,
+        "actions": [
+            "jump",
+            "rotate"
+        ]
+    },
+    "autoReconnect": {
+        "enabled": true,
+        "delayMs": 5000,
+        "maxAttempts": 10
+    }
+}

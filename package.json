@@ -1,0 +1,16 @@
+{
+  "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "description": "Minecraft Java Edition AFK Bot - Cracked/Offline Mode Destekli",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["minecraft", "afk", "bot", "mineflayer"],
+  "author": "Doğukan Gökçeoğlu",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.23.0",
+    "chalk": "^4.1.2"
+  }
+}
