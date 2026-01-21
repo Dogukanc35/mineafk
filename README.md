@@ -245,7 +245,7 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 **Doğukan Gökçeoğlu**
 
-- GitHub: [@kullaniciadi](https://github.com/kullaniciadi)
+- GitHub: [@Dogukanc35](https://github.com/Dogukanc35)
 
 ---
 
@@ -254,3 +254,4 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 ⭐ Bu proje işinize yaradıysa yıldız vermeyi unutmayın!
 
 </div>
+
